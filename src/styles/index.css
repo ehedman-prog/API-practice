@@ -1,0 +1,17 @@
+.API__content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.content__btn{
+  min-width: 50px;
+  min-height: 50px;
+  border-radius: 20px;
+}
+
+.content__img {
+  max-width: 1000px;
+  max-height: 1000px;
+}
